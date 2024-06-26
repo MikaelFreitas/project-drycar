@@ -123,7 +123,6 @@ section#s2 {
 section#s2 > div#divs2 {
     background-color: whitesmoke;
     width: 94vw;
-    height: 50vh;
     margin: auto;
     border: 0px solid rgba(0, 0, 0, 0);
     border-radius: 10px;
@@ -162,7 +161,6 @@ section#s3 {
 section#s3 > div#divs3 {
     background-color: whitesmoke;
     width: 94vw;
-    height: 94vh;
     margin: auto;
     border: 0px solid rgba(0, 0, 0, 0);
     border-radius: 10px;
@@ -197,3 +195,19 @@ section#s3 address {
     font-weight: bolder;
     padding: 15px;
 }
+
+section#s4 {
+    padding-top: 20px;
+    
+}
+
+section#s4 > div#divs4 {
+    background-color: whitesmoke;
+    width: 94vw;
+    margin: auto;
+    border: 0px solid rgba(0, 0, 0, 0);
+    border-radius: 10px;
+    box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.185);
+    
+}
+
