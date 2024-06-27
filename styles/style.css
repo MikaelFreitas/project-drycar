@@ -198,12 +198,13 @@ section#s3 address {
 
 section#s4 {
     padding-top: 20px;
-    
+    padding-bottom: 40px;
 }
 
 section#s4 > div#divs4 {
     background-color: whitesmoke;
     width: 94vw;
+    padding-bottom: 20px;
     margin: auto;
     border: 0px solid rgba(0, 0, 0, 0);
     border-radius: 10px;
@@ -211,3 +212,43 @@ section#s4 > div#divs4 {
     
 }
 
+section#s4 a#link-wpp {
+    display: block;
+    width: 15vw;
+    margin: auto;
+    
+}
+
+section#s4 a#link-insta {
+    display: block;
+    width: 15vw;
+    margin: auto;
+    
+}
+
+section#s4 img:hover {
+    transform: scale(1.15);
+    transition: 0.5s;
+}
+
+section#s4 img {
+    display: block;
+    width: 15vw;
+    margin: auto;
+    padding: 15px;
+    
+}
+
+footer {
+    background-color:#1a6c92 ;
+    border-radius: 4px;
+    box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.493);
+    
+}
+
+footer p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    text-align: center;
+    color: white;
+}
